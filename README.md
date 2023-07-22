@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com//drunk8/raw/main/assets/github.gif" alt="Hi, I'm Drunk 👋 I'm a 🚀 Emirati developer 🚀 I ❤️ Gaming ❤️">
+  <img src="https://github.com/drunk8/drunk8/blob/main/github.gif" alt="Hi, I'm Drunk 👋 I'm a 🚀 Emirati developer 🚀 I ❤️ Gaming ❤️">
 </p>
 
 <!--
