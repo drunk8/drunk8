@@ -14,7 +14,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## :memo: Websites
 
 <!-- U-POST-LIST:START -->
-- [Drunk Website](http://drunk.loveslife.biz/)
+- [Drunk New Website](http://drunky.rf.gd/)
+- [Drunk Old Website](http://drunk.loveslife.biz/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
